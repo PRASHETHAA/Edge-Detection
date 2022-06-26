@@ -1,5 +1,5 @@
 ## EX NO:07
-## DATE:4.4.22
+## DATE:12.5.22
 # <p align="center">Edge-Detection
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.

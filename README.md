@@ -1,4 +1,6 @@
-# Edge-Detection
+## EX NO:07
+## DATE:4.4.22
+# <p align="center">Edge-Detection
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -31,6 +33,9 @@ Display all the images with their respective edge detected images.
 ## Program:
 
 ``` Python
+ Developed by:Prashethaa R
+ Register No :212220230036
+ 
 # Import the packages
 import cv2
 import numpy as np
